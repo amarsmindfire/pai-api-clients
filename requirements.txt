@@ -1,0 +1,9 @@
+Django==3.2.5
+librosa==0.8.1
+SoundFile==0.10.3.post1
+google-cloud-speech==2.6.0
+pydub==0.25.1
+azure-ai-formrecognizer==3.1.1
+azure-storage-blob==12.8.1
+azure-identity==1.5.0
+azure-keyvault-secrets==4.2.0
